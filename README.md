@@ -47,3 +47,4 @@ Assumes that user reviews on IMDb pages consistently have titles and content in 
 
 # Database Schema
 
+![Database_shema](database_schema.png)
