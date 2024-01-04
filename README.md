@@ -2,7 +2,7 @@
 ### 1. Get the Repository URL
 Visit the GitHub repository you want to clone.
 Click on the "Code" button (usually a green button).
-Copy the URL provided (it should look like https://github.com/username/repository.git).
+Copy the URL provided (it should look like https://github.com/anaavi-a/web_scraping.git).
 ### 2. Open a Terminal or Command Prompt and navigate to the Directory Where You Want to Clone the Repository
 ### 3. Clone the Repository
 Use the git clone command followed by the repository URL you copied earlier
@@ -23,7 +23,7 @@ Structures the collected data into a nested format, categorizing it by genre, an
 Prints the titles and release years of the top movies for each genre.
 Writes the organized data into a JSON file named "movie_reviews.json" with a clear representation of genres, movies, and their respective user reviews.
 
-### Assumptions 
+# Assumptions 
 1. IMDb Structure Stability:
 Assumes that the HTML structure of the IMDb pages, particularly the search results and movie pages, remains relatively stable. Any changes to the IMDb website structure could potentially break the code.
 
