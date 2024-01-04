@@ -13,7 +13,7 @@ Use the git clone command followed by the repository URL you copied earlier
 
 1. Top Movies Retrieval:
    
-Utilizes the get_top_movies_by_genre function to fetch details of the top 20 movies in various genres from IMDb. Information includes movie titles, release years, and IMDb links.
+Utilizes the get_top_movies_by_genre function to fetch details of the top 20 movies in various genres from IMDb having 5000 or more votes. Information includes movie titles, release years, and IMDb links.
 
 2. User Reviews Retrieval:
    
@@ -44,3 +44,6 @@ Assumes that the specified genres are valid and available on IMDb. If IMDb updat
 4. Review Titles and Content:
 
 Assumes that user reviews on IMDb pages consistently have titles and content in the expected HTML elements. Changes in the IMDb website layout may impact the extraction of review titles and content.
+
+# Database Schema
+
